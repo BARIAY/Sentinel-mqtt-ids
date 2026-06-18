@@ -1,0 +1,1 @@
+["general_device_name_count", "general_device_name_nunique", "time_since_last_mean", "time_since_last_max", "is_burst_sum", "is_burst_mean", "msg_len_mean", "msg_len_std", "mqtt_topic_entropie", "mqtt_topic_nunique", "general_ip_nunique", "msg_count_per_ip_in_window_max", "msg_rate", "burst_ratio", "ip_concentration"]
