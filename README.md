@@ -96,7 +96,6 @@ This project was developed by a team of passionate cybersecurity and AI enthusia
 <img width="959" height="425" alt="Screenshot 2026-06-18 142433" src="https://github.com/user-attachments/assets/b2e6eb27-15bd-49c8-be02-1467b3af0c81" />
 <img width="959" height="448" alt="Screenshot 2026-06-18 142653" src="https://github.com/user-attachments/assets/cdc9cc7f-eec0-45e9-bad0-c1327e4863c9" />
 
-<img width="959" height="448" alt="image" src="https://github.com/user-attachments/assets/94765086-969e-4b53-a16b-404e7199afe8" />
 
 
 ---
