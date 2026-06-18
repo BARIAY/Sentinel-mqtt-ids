@@ -1,4 +1,4 @@
-# 🛡️ SENTINEL - MQTT Intrusion Detection System
+#  SENTINEL - MQTT Intrusion Detection System
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)
@@ -91,7 +91,8 @@ This project was developed by a team of passionate cybersecurity and AI enthusia
 ---
 
 ##  Dashboard Screenshots
-*(Consider adding some screenshots of your Streamlit dashboard here to showcase the beautiful UI!)*
+<img width="959" height="448" alt="image" src="https://github.com/user-attachments/assets/94765086-969e-4b53-a16b-404e7199afe8" />
+
 
 ---
 
