@@ -5,14 +5,14 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📌 Project Overview
+##  Project Overview
 **SENTINEL** is an advanced Intrusion Detection System (IDS) specifically designed to protect IoT networks utilizing the MQTT protocol. Powered by Deep Learning and Long Short-Term Memory (LSTM) neural networks, SENTINEL analyzes network traffic in real-time to identify and block Denial of Service (DoS) attacks.
 
 This project features a stunning, interactive "Cyberpunk-themed" dashboard built with Streamlit, offering real-time analytics, threat detection, and advanced data visualization.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - **Real-Time Detection:** Rapid anomaly detection (< 100ms) for MQTT network traffic.
 - **High Accuracy:** LSTM model achieving > 98% detection accuracy on DoS attacks.
 - **Cyberpunk Interface:** An immersive, intuitive dashboard with neon visuals and dynamic components.
@@ -21,7 +21,7 @@ This project features a stunning, interactive "Cyberpunk-themed" dashboard built
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Deep Learning:** LSTM Neural Networks (TensorFlow/Keras)
 - **Frontend / Dashboard:** Streamlit
 - **Data Visualization:** Plotly
@@ -50,7 +50,7 @@ This project features a stunning, interactive "Cyberpunk-themed" dashboard built
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
 ```bash
@@ -77,7 +77,7 @@ streamlit run app.py
 
 ---
 
-## 👥 Development Team
+##  Development Team
 This project was developed by a team of passionate cybersecurity and AI enthusiasts:
 - **Aya Taftaf**
 - **Hajar Bouih**
@@ -90,10 +90,10 @@ This project was developed by a team of passionate cybersecurity and AI enthusia
 
 ---
 
-## 📸 Dashboard Screenshots
+##  Dashboard Screenshots
 *(Consider adding some screenshots of your Streamlit dashboard here to showcase the beautiful UI!)*
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License - see the LICENSE file for details.
